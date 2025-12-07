@@ -6,7 +6,7 @@ import { AuditSession, HistoryEntry, InventoryItem, ScheduledAudit } from '../ty
 
 const STORAGE_KEY = 'audit_history';
 const SCHEDULE_KEY = 'audit_schedules';
-const LOGO_URL = "https://i.ibb.co/hFq3BtD9/Movilnet-logo-0.png";
+const LOGO_URL = "https://i.ibb.co/TM2v02nJ/descarga.png";
 
 // Helper to handle case-insensitive and accent-insensitive key lookup
 const normalizeKey = (key: string) => key.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
