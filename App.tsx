@@ -382,7 +382,7 @@ export default function App() {
     <div className="min-h-screen bg-[#f3f4f6] flex items-center justify-center px-4">
       <div className="max-w-md w-full">
         <div className="text-center mb-8">
-          <img src="https://i.ibb.co/hFq3BtD9/Movilnet-logo-0.png" alt="Logo" className="h-12 mx-auto mb-4 object-contain" />
+          <img src="https://i.ibb.co/TM2v02nJ/descarga.png" alt="Logo" className="h-12 mx-auto mb-4 object-contain" />
           <h1 className="text-2xl font-bold text-gray-900">Bienvenido a AuditPro</h1>
           <p className="text-gray-500 mt-2">Inicia sesión para acceder al sistema de inventario</p>
         </div>
