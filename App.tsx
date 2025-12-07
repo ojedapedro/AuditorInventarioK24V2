@@ -435,10 +435,10 @@ export default function App() {
           </form>
           
           <div className="mt-6 pt-6 border-t border-gray-100 text-center">
-             <p className="text-xs text-gray-400">Default: admin / 123</p>
+             <p className="text-xs text-gray-400">Default: admin / xxx</p>
           </div>
         </Card>
-        <p className="text-center text-xs text-gray-400 mt-8">© 2024 AuditPro Inventory System</p>
+        <p className="text-center text-xs text-gray-400 mt-8">© 2025 AuditPro Inventory System</p>
       </div>
     </div>
   );
